@@ -1,1 +1,1 @@
-Repository dedicated to store data used to empirical study.
+Branch dedicated to store data used in ECSA 2020 paper.
